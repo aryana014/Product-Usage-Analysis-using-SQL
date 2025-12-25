@@ -1,0 +1,17 @@
+Project Goal:
+Understand how users move through the product and where they drop off.
+
+Data Used:
+User signups and action events generated as sample data.
+
+Key Insights:
+Most users drop after viewing features.
+Only a small number reach later actions.
+
+Hypotheses:
+Users may not see clear next steps.
+Onboarding flow may be confusing.
+
+Recommendations:
+Improve onboarding clarity.
+Add clearer call-to-action prompts.
